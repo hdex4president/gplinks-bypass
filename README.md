@@ -1,3 +1,2 @@
-# gplinks-bypass
-gplinks Bypasser
-Edit by Haded original repo is linked?
+```python
+python3 gplinks_bypasser.py```
